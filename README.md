@@ -32,7 +32,12 @@ Ein professionelles Webdesign für einen Judo Dojo, das moderne Webtechnologien 
 
 ---
 
-## 📸 Screenshots
+## Live Demo & 📸 Screenshots
+
+### Responsive Design
+- **Desktop** – Vollständige Navigation mit allen Links
+- **Mobile** – Hamburger-Menü mit Slide-in Animation & optimierte Layout-Anpassungen.
+
 ![Alt text](Pic3.png "Optional title")
 ![Alt text](Pic1.png "Optional title")
 ![Alt text](Pic2.png "Optional title")
