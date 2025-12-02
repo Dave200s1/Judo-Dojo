@@ -1,0 +1,33 @@
+.student{
+    margin-left: 50px;
+    position: relative;
+    width: 100%;
+    height: auto;
+    max-width: 450px;
+    border-radius: 5px;
+
+}
+
+.teaching{
+    margin-top:105px;
+    display: flex;
+    padding: 10px 0 20px 30px;
+    width: fit-content;
+}
+
+.ourMethods h2,
+.ourMethods p{
+    margin-top: 2%;
+    margin-left: 10%;
+    padding: 20px;
+    width: 100%;
+    max-width: 800px;
+}
+
+.ourMethods h2{
+    font-weight: 400;
+}
+
+.ourMethods p{
+    font-weight: 320;
+}

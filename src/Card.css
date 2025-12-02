@@ -1,0 +1,76 @@
+
+
+.Info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0 20px 30px;
+    top: 0;
+    left: 0;
+    background-color: rgb(255, 255, 255);
+}
+
+.Bio h2, 
+.Bio p{
+    justify-content: space-between;
+    margin-top: 20px;
+    font-weight: 400;
+}
+
+.Bio h2{
+    font-size: xx-large;
+}
+
+.Bio p{
+    font-weight: 320;
+}
+
+.wrapper{
+    position: relative;
+    width: fit-content;
+    margin-left: 220px;
+}
+
+
+.teacher{
+    position: relative;
+    object-fit:cover;
+    border-radius: 70%;
+    margin-top: 45px;
+    width: 270px;
+    height: 272px;
+    z-index: 2;
+}
+
+.splash{
+    position: absolute;
+    width: 1488px;
+    bottom: -299px;
+    left: 46%;    
+    transform: translateX(-50%);
+    z-index: 1;
+}
+
+.Bio button{
+    position: relative;
+    cursor: pointer;
+    margin-top: 20px;
+    text-decoration: none;
+    height: 45px;
+    width: 150px;
+    border-radius: 25px;
+    list-style: none;
+    background-color: brown;
+    color: white;
+    padding: 12px ;
+    font-size: 17px;
+    z-index: 3;
+    border: none;
+    transition: background-color 0.3s ease;
+
+}
+
+.Bio button:hover{
+    background-color: black;
+    opacity: 0.9;
+}
