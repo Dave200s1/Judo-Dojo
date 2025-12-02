@@ -7,7 +7,7 @@ Ein modernes, responsives Frontend für einen Judo Dojo, gebaut mit React. Diese
 
 ## Projektübersicht
 
-Ein professionelles Webdesign für einen Judo Dojo, das moderne Webtechnologien mit traditioneller Kampfkunst vereint. Die Anwendung bietet ein responsives Design, intuitive Navigation und eine ansprechende Benutzeroberfläche.
+Ein professionelles Webdesign für einen Judo Dojo. Die Anwendung bietet ein responsives Design, intuitive Navigation und eine ansprechende Benutzeroberfläche.
 
 ## 🚀 Features
 - **Interactive UI** built with React
