@@ -7,7 +7,7 @@ Dieses Fullstack-Projekt wird kontinuierlich erweitert und verbessert. Aktuell s
 | Komponente | Status | Details |
 |------------|--------|---------|
 | **Frontend (React)** | ✅ Vollständig | Alle Seiten, Navigation, Responsive Design |
-| **Backend API** | ✅ Vollständig | [Separates Repository](https://github.com/Dave200s1/judo-dojo-backend) mit allen Endpunkten |
+| **Backend API** | ✅ Vollständig | [Separates Repository](https://github.com/Dave200s1/Judo_Backend) mit allen Endpunkten |
 | **Datenbank** | ✅ Vollständig | MongoDB Atlas mit voller Migration |
 | **Zukünftige Features** | 🚧 Geplant | Benutzerauthentifizierung, Admin-Panel, Event-Buchung |
 
