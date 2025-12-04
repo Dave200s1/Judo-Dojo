@@ -20,12 +20,6 @@ Dieses Fullstack-Projekt wird kontinuierlich erweitert und verbessert. Aktuell s
 
 Ein professionelles Webdesign für einen Judo Dojo. Die Anwendung bietet ein responsives Design, intuitive Navigation und eine ansprechende Benutzeroberfläche.
 
-## 🚀 Features
-- **Interactive UI** built with React
-- **Smooth animations** and modern styling  
-- **Simple FrontPage** 
-
----
 
 ## 🛠️ Tech Stack
 
