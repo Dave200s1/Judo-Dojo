@@ -25,10 +25,15 @@ Ein professionelles Webdesign für einen Judo Dojo. Die Anwendung bietet ein res
 - **hamburger-react** – interaktives Hambuger-Menü
 - **FeatherIcons** – schöne skalierbaren Icons
 
-### Geplant (Futre Implementation)
-- **node.js & express** – Backend-Server
-- **MongoDB** – Datenbank
-- **REST API** -Datenkommunikation
+### **Backend** *(Separates Repository)*
+- **Node.js & Express** – RESTful API Server
+- **MongoDB Atlas** – Cloud-Datenbank
+- **Mongoose ODM** – Datenmodellierung
+- **🔗 [Backend Repository ansehen →](https://github.com/Dave200s1/Judo_Backend)**
+
+### **API-Kommunikation**
+- **REST API** – Vollständige CRUD-Endpunkte
+- **JSON** – Datenformat für alle Anfragen
 
 ---
 
