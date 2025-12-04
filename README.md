@@ -2,6 +2,17 @@
 
 Ein modernes, responsives Frontend für einen Judo Dojo, gebaut mit React. Dieses Projekt dient als Grundlage für eine zukünftige Fullstack-Anwendung mit dem MERN-Stack (MongoDB, Express, React, Node.js).
 
+Dieses Fullstack-Projekt wird kontinuierlich erweitert und verbessert. Aktuell sind folgende Komponenten implementiert:
+
+| Komponente | Status | Details |
+|------------|--------|---------|
+| **Frontend (React)** | ✅ Vollständig | Alle Seiten, Navigation, Responsive Design |
+| **Backend API** | ✅ Vollständig | [Separates Repository](https://github.com/Dave200s1/judo-dojo-backend) mit allen Endpunkten |
+| **Datenbank** | ✅ Vollständig | MongoDB Atlas mit voller Migration |
+| **Zukünftige Features** | 🚧 Geplant | Benutzerauthentifizierung, Admin-Panel, Event-Buchung |
+
+---
+
 ![npm bundle size (version)](https://img.shields.io/badge/version-0.0.1-darkblue) ![npm bundle size (version)](https://img.shields.io/badge/techstack-HTML5-yellow) ![npm bundle size (version)](https://img.shields.io/badge/techstack-React-lightblue)
 ---
 
