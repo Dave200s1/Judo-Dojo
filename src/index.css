@@ -1,8 +1,13 @@
+@font-face {
+    font-family: RealaGrotesque;
+    src: url(/public/fonts/RaelaGrotesqueRegular-e9476.ttf);
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: RealaGrotesque, sans-serif;
 }
 
 html, body{
@@ -115,7 +120,9 @@ html, body{
     color: rgb(81, 19, 19);
 }
 
+
 /* Responsive Styles */
+
 @media (max-width: 1024px) {
     .navi-container {
         margin-left: 40px;
@@ -144,10 +151,18 @@ html, body{
     
     .mobile-sidebar {
         width: 100%;
+        height: 100%;
     }
+
+    .mobile-sidebar ul li a{
+        width: 25rem;
+        padding: 0;
+        margin: 0;
+    }
+    
 }
 
-/* Optional: Overlay when sidebar is open */
+
 .mobile-sidebar::before {
     content: '';
     position: fixed;
@@ -165,3 +180,4 @@ html, body{
     opacity: 1;
     pointer-events: auto;
 }
+

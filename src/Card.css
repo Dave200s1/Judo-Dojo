@@ -74,3 +74,31 @@
     background-color: black;
     opacity: 0.9;
 }
+
+@media (max-width: 768px){
+    .Info{
+        display: flow-root;
+        align-items: center;
+        text-align: center;
+    }
+
+    .Bio p{
+        font-size: 15px;
+    }
+
+    .wrapper{
+        top: 2rem;
+        left: 5rem;
+        margin: 15px;
+    }
+
+    .splash{
+        width: 1300px;
+        height: 750px;
+    }
+
+    .teacher{
+        width: 210px;
+        height: 210px;
+    }
+}
